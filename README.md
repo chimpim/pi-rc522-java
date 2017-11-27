@@ -1,0 +1,1 @@
+使用前需要安装pi4j这个开发库，安装教程：http://pi4j.com/install.html
